@@ -1,6 +1,11 @@
 .venv
 venv
+
+# VSCode
 .vscode
+# JetBrains
+.idea
+
 # Byte-compiled / optimized / DLL files
 **__pycache__**
 *.py[cod]
